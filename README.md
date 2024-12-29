@@ -10,4 +10,4 @@ My **goals** with this vault are to :
 4. Create a resource I can rely on for future reference.
 
 ## Structure
-I use folders to separate notes into categories.
+I use folders to separate notes into categories and tags for more specific subcategories. Changes in my notes are pushed automatically every 15 min.
