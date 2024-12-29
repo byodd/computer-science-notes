@@ -25,7 +25,7 @@ Analysts explore and evaluate company networks to uncover actionable data and re
 > Responsible for using digital forensics to investigate incidents and crimes
 ### Responsibilities
 - Collect digital evidence while observing legal procedures
-- Analyse digital evidence to find answers related to the case
+- Analyze digital evidence to find answers related to the case
 - Document your findings and report on the case
 
 # Malware Analyst
