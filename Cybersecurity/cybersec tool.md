@@ -1,3 +1,3 @@
 ## Offensive Security
-- **GoBuster** [[Offensive Security Intro]]
+- **Gobuster** [[Offensive Security Intro]]
 - 
