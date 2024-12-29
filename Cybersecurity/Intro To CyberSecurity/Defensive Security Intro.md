@@ -1,4 +1,3 @@
-#tryhackme 
 Defensive security have 2 main tasks:
 1. Preventing intrusions from occurring
 2. Detecting intrusions when they occur and responding properly
@@ -18,3 +17,4 @@ Defensive security have 2 main tasks:
 # Areas of DefSec
 - [[Security Operations Center (SOC)]]
 - [[Digital Forensics and Incident Response (DFIR)]]
+#tryhackme 

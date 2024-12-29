@@ -1,4 +1,3 @@
-#tryhackme
 Offensive security represents the process where you simulate a hacker's actions to find vulnerabilities in a system.
 
 It aims to identify and exploit system vulnerabilities to enhance security measures. This includes exploiting software bugs, leveraging insecure setups, and taking advantage of unenforced access control policies, among other strategies. Red teams and penetration testers specialize in these offensive techniques.
@@ -17,3 +16,5 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 - Penetration Tester - Responsible for testing technology products for finding exploitable security vulnerabilities.
 - Red Teamer - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
 - Security Engineer - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
+
+#tryhackme
