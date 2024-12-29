@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "f4b6f6896d358d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b3fb28ed5c7d3d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba9d8fb997f68851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "975b1f8c271fd633",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc4feb57f0a9948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b36393f00c307ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "267be020ab6bd2a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "173edddca7d60ea9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec38f9bea000a215",
+    "type": "split",
+    "children": [
+      {
+        "id": "7621a2ae97339db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bde7e65718dfa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "create a link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create a link"
+            }
+          },
+          {
+            "id": "cd8d106fc862e2cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "138029fe4d02bc1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86dfa682106b534d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          },
+          {
+            "id": "154f7e825d353d34",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5b36393f00c307ba",
+  "lastOpenFiles": [
+    "Cybersecurity/Intro To CyberSecurity/Offensive Security Intro.md",
+    "README.md",
+    "Cybersecurity/Intro To CyberSecurity",
+    "Cybersecurity/THM",
+    "Cybersecurity",
+    "Software Engineering",
+    "create a link.md",
+    "2024-12-29.md",
+    "Welcome.md",
+    "Untitled.canvas"
+  ]
+}
