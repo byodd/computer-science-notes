@@ -27,4 +27,8 @@ Malware stands for malicious software, it includes many types like:
 - **Trojan Horse** is a program that shows one desirable function but hides a malicious function underneath.
 - **Ransomware** is a malicious program that encrypts the user’s files to make them pay a ransom in exchange of the encryption password.
 
+Malware analysis aims to learn about such malicious programs using various means:
+1. **Static analysis** works by inspecting the malicious program without running it. This usually requires solid knowledge of **assembly language**.
+2. **Dynamic analysis** works by running the malware in a controlled environment and monitoring its activities. It lets you observe how the malware behaves when running
+
 #tryhackme 
