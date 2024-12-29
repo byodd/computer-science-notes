@@ -17,6 +17,7 @@ Defensive security have 2 main tasks:
 # Areas of DefSec
 - [[Security Operations Center (SOC)]]
 - [[Digital Forensics and Incident Response (DFIR)]]
+
 # Practical case
 _Security Information and Event Management_ (SIEM) is a system used to aggregate security information in the form of logs, alerts, artifacts and events into a centralized platform that would allow security analysts to perform near real-time analysis during security monitoring.
 
