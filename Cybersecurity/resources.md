@@ -1,3 +1,2 @@
-[TryHackMe](https://tryhackme.com)  is a online platform for learning cyber security, using hands-on exercises and labs.
-
+[TryHackMe](https://tryhackme.com)  is a online platform for learning cyber security, using hands-on exercises and labs. It served as my initial introduction to cybersecurity, and after a two-year hiatus, I've decided to revisit the platform to refresh my skills and enhance my notes. [Take a look at my current profile](https://tryhackme.com/r/p/byodd) since late 2024 or [my old profile](https://tryhackme.com/r/p/mansaaa) (lost in 2023 💀).
 

@@ -6,9 +6,8 @@ Devices on the same network can communicate with each other using their **privat
 
 Due to a lack of available public address using the IPv4 (2^32 address), we now have IPv6 allowing 2^128 which is also more efficient
 ![[ipv6.png]]
+[[Ping]] is useful to evaluate connection between devices
 # MAC (Media Access Control)
 Assigned at the build of the motherboard of your device, it is an unique identifier of it with 12 characters, 6 for your vendor, 6 for your unique network interface address. However a MAC address can be faked (or "**spoofed**") to break some security designs, making believe a firewall that it is a part of allowed devices.
 
-# Ping
-Ping is a fundamental network tool using **ICMP** (Internet Control Message Protocol) to determine the performance of a connection between devices
 #tryhackme 
