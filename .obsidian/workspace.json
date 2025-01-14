@@ -11,10 +11,14 @@
             "id": "540ef7f02e46da21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Pre security/Networking/Device identification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Device identification"
             }
           }
         ]
@@ -184,14 +188,18 @@
   },
   "active": "540ef7f02e46da21",
   "lastOpenFiles": [
-    "Cybersecurity/Intro to cybersecurity/Defensive Security Intro.md",
-    "Cybersecurity/Intro to cybersecurity/Offensive Security Intro.md",
-    "Cybersecurity/Intro to cybersecurity/Security Operations Center (SOC).md",
-    "Cybersecurity/Intro to cybersecurity/Threat intelligence.md",
-    "Cybersecurity/cybersec tool.md",
-    "Cybersecurity/Intro to cybersecurity/Careers in Cybersecurity.md",
+    "Cybersecurity/Pre security/Networking/Internet history.md",
+    "Cybersecurity/Pre security/Networking/Device identification.md",
     "Cybersecurity/resources.md",
-    "Cybersecurity/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
+    "Cybersecurity/cybersec tool.md",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Offensive Security Intro.md",
+    "Cybersecurity/Pre security/Networking",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Threat intelligence.md",
+    "Cybersecurity/Pre security",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Defensive Security Intro.md",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Security Operations Center (SOC).md",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Careers in Cybersecurity.md",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
     "b162600f5990f249d921aa0e8b7822f7.png",
     "attachments/b162600f5990f249d921aa0e8b7822f7.png",
     "attachments",
@@ -199,7 +207,7 @@
     "README.md",
     "Untitled.canvas",
     "Cybersecurity/Intro to cybersecurity/Carreers in Cybersecurity.md",
-    "Cybersecurity/Intro to cybersecurity",
+    "Cybersecurity/Pre security/Intro to cybersecurity",
     "Cybersecurity/THM",
     "Cybersecurity",
     "Software Engineering",
