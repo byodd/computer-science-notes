@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cybersecurity/Pre security/Intro to cybersecurity/Careers in Cybersecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Careers in Cybersecurity"
             }
           }
         ]
@@ -186,21 +186,22 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "540ef7f02e46da21",
+  "active": "5b36393f00c307ba",
   "lastOpenFiles": [
+    "Cybersecurity/Pre security/Intro to cybersecurity/Defensive Security Intro.md",
+    "Cybersecurity/Pre security/Intro to cybersecurity/Offensive Security Intro.md",
     "Cybersecurity/resources.md",
     "Cybersecurity/Pre security/Networking/Ping.md",
+    "README.md",
     "Cybersecurity/Pre security/Networking/Internet history.md",
     "Cybersecurity/Pre security/Networking/Device identification.md",
     "Cybersecurity/Pre security/LAN",
     "attachments/ping1.png",
     "attachments/ipv6.png",
     "Cybersecurity/cybersec tool.md",
-    "Cybersecurity/Pre security/Intro to cybersecurity/Offensive Security Intro.md",
     "Cybersecurity/Pre security/Networking",
     "Cybersecurity/Pre security/Intro to cybersecurity/Threat intelligence.md",
     "Cybersecurity/Pre security",
-    "Cybersecurity/Pre security/Intro to cybersecurity/Defensive Security Intro.md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Security Operations Center (SOC).md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Careers in Cybersecurity.md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
@@ -208,7 +209,6 @@
     "attachments/b162600f5990f249d921aa0e8b7822f7.png",
     "attachments",
     "Cybersecurity/Intro to cybersecurity/Areas of DefSec.md",
-    "README.md",
     "Untitled.canvas",
     "Cybersecurity/Intro to cybersecurity/Carreers in Cybersecurity.md",
     "Cybersecurity/Pre security/Intro to cybersecurity",
