@@ -1,9 +1,7 @@
 Plan de la présentation de soi PPP S5
-
- Pensez bien à mettre vos compétences en lien avec vos expériences.
+Pensez bien à mettre vos compétences en lien avec vos expériences.
 
   
-
 Introduction : 
 Mr. BA Gatta
 Âge : 20
