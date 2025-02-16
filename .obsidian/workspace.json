@@ -11,12 +11,14 @@
             "id": "540ef7f02e46da21",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
+                "file": "epita/maths/Programme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
+              "icon": "lucide-file",
+              "title": "Programme"
             }
           }
         ]
@@ -185,11 +187,15 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "540ef7f02e46da21",
+  "active": "5b36393f00c307ba",
   "lastOpenFiles": [
+    "epita/algo/Untitled",
+    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
+    "epita/maths/Programme.md",
+    "epita/algo",
+    "epita/maths",
     "epita/Programme.md",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master.pdf",
-    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
     "README.md",
     "epita",
     "Cybersecurity/Pre security/Networking/Device identification.md",
@@ -216,8 +222,6 @@
     "Untitled.canvas",
     "Cybersecurity/Intro to cybersecurity/Carreers in Cybersecurity.md",
     "Cybersecurity/Pre security/Intro to cybersecurity",
-    "Cybersecurity/THM",
-    "Cybersecurity",
     "create a link.md",
     "2024-12-29.md",
     "Welcome.md"
