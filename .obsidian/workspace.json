@@ -11,14 +11,12 @@
             "id": "540ef7f02e46da21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
             }
           }
         ]
@@ -189,6 +187,11 @@
   },
   "active": "540ef7f02e46da21",
   "lastOpenFiles": [
+    "epita/Programme.md",
+    "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master.pdf",
+    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
+    "README.md",
+    "epita",
     "Cybersecurity/Pre security/Networking/Device identification.md",
     "Cybersecurity/resources.md",
     "Cybersecurity/cybersec tool.md",
@@ -197,7 +200,6 @@
     "Cybersecurity/Pre security/Intro to cybersecurity/Defensive Security Intro.md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Offensive Security Intro.md",
     "Cybersecurity/Pre security/Networking/Ping.md",
-    "README.md",
     "Cybersecurity/Pre security/Networking/Internet history.md",
     "Cybersecurity/Pre security/LAN",
     "attachments/ping1.png",
@@ -216,7 +218,6 @@
     "Cybersecurity/Pre security/Intro to cybersecurity",
     "Cybersecurity/THM",
     "Cybersecurity",
-    "Software Engineering",
     "create a link.md",
     "2024-12-29.md",
     "Welcome.md"
