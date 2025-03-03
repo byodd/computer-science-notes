@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epita/maths/Programme.md",
+                "file": "epita/maths/Notions élémentaires/PGCD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programme"
+              "title": "PGCD"
             }
           }
         ]
@@ -189,11 +189,11 @@
   },
   "active": "877a8a6866f56a55",
   "lastOpenFiles": [
+    "epita/maths/Programme.md",
     "epita/maths/Notions élémentaires/PPCM.md",
     "epita/maths/Notions élémentaires/PGCD.md",
     "attachments/Pasted image 20250303132006.png",
     "epita/maths/Notions élémentaires/Primalité.md",
-    "epita/maths/Programme.md",
     "epita/maths/Notions élémentaires/Fractions.md",
     "Untitled.md",
     "README.md",
