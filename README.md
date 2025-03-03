@@ -12,5 +12,4 @@ My **goals** with this vault are to :
 I use folders to separate notes into categories and tags for more specific subcategories.
 ## Tools
 - **Obsidian**: A powerful note taking software. This repository is in fact an **[Obsidian vault](https://help.obsidian.md/Getting+started/Create+a+vault)**
-- **Anki**: A flashcard app to help memorizing concepts
 - **Github**: To store my notes. Changes in my notes are pushed automatically every 15 min.
