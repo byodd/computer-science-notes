@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:epita/maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:epita/algo  ",
+      "color": {
+        "a": 1,
+        "rgb": 6080726
+      }
+    },
+    {
+      "query": "path:Cybersecurity  ",
+      "color": {
+        "a": 1,
+        "rgb": 13625555
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 11.2474012474012,
   "linkStrength": 1,
   "linkDistance": 128,
-  "scale": 1.0371163357544266,
-  "close": false
+  "scale": 0.7397496341785309,
+  "close": true
 }

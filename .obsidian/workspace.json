@@ -11,14 +11,12 @@
             "id": "877a8a6866f56a55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "epita/maths/Notions élémentaires/PGCD.md",
-                "mode": "source",
-                "source": false
+                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PGCD"
+              "icon": "lucide-file-text",
+              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
             }
           }
         ]
@@ -190,11 +188,11 @@
   "active": "877a8a6866f56a55",
   "lastOpenFiles": [
     "epita/maths/Programme.md",
-    "epita/maths/Notions élémentaires/PPCM.md",
+    "epita/maths/Notions élémentaires/Fractions.md",
     "epita/maths/Notions élémentaires/PGCD.md",
+    "epita/maths/Notions élémentaires/PPCM.md",
     "attachments/Pasted image 20250303132006.png",
     "epita/maths/Notions élémentaires/Primalité.md",
-    "epita/maths/Notions élémentaires/Fractions.md",
     "Untitled.md",
     "README.md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
