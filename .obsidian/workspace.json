@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
             }
-          },
-          {
-            "id": "3455101e8745e264",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +185,7 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "3455101e8745e264",
+  "active": "877a8a6866f56a55",
   "lastOpenFiles": [
     "epita/maths/Programme.md",
     "epita/maths/Notions élémentaires/Fractions.md",
