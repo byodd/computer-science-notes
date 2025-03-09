@@ -11,12 +11,14 @@
             "id": "877a8a6866f56a55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
+                "file": "epita/maths/Notions élémentaires/Racines.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
+              "icon": "lucide-file",
+              "title": "Racines"
             }
           }
         ]
@@ -187,6 +189,8 @@
   },
   "active": "877a8a6866f56a55",
   "lastOpenFiles": [
+    "epita/maths/Notions élémentaires/Racines.md",
+    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
     "epita/maths/Programme.md",
     "epita/maths/Notions élémentaires/Fractions.md",
     "epita/maths/Notions élémentaires/PGCD.md",
@@ -198,7 +202,6 @@
     "Cybersecurity/Pre security/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
     "attachments/2nd-exos-arithmétique-nombres-premiers-crible-dEratosthène.png",
     "epita/maths/Notions élémentaires",
-    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master.pdf",
     "epita/algo/Untitled",
     "epita/algo",
@@ -227,7 +230,6 @@
     "Untitled.canvas",
     "Cybersecurity/Intro to cybersecurity/Carreers in Cybersecurity.md",
     "create a link.md",
-    "2024-12-29.md",
-    "Welcome.md"
+    "2024-12-29.md"
   ]
 }
