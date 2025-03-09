@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epita/maths/Notions élémentaires/Logarithme décimal log.md",
+                "file": "epita/maths/Notions élémentaires/Logarithme néperien ln.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logarithme décimal log"
+              "title": "Logarithme néperien ln"
             }
           }
         ],
@@ -239,10 +239,12 @@
       }
     ]
   },
-  "active": "0132c6c7516b0515",
+  "active": "e1146ac9fb438b75",
   "lastOpenFiles": [
-    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
+    "epita/maths/Notions élémentaires/Logarithme néperien ln.md",
     "epita/maths/Notions élémentaires/Logarithme décimal log.md",
+    "attachments/Pasted image 20250309155721.png",
+    "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
     "attachments/Pasted image 20250309154800.png",
     "attachments/Pasted image 20250309154741.png",
     "attachments/Pasted image 20250309154729.png",
@@ -259,7 +261,6 @@
     "epita/maths/Notions élémentaires/Primalité.md",
     "epita/maths/Notions élémentaires/Fractions.md",
     "attachments/Pasted image 20250309021030.png",
-    "attachments/Pasted image 20250309020939.png",
     "epita/maths/Notions élémentaires/PGCD.md",
     "epita/maths/Notions élémentaires/PPCM.md",
     "Untitled.md",
