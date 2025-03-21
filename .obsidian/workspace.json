@@ -46,12 +46,14 @@
             "id": "0132c6c7516b0515",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
+                "file": "epita/maths/Notions élémentaires/PPCM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
+              "icon": "lucide-file",
+              "title": "PPCM"
             }
           }
         ]
@@ -222,10 +224,12 @@
   },
   "active": "0132c6c7516b0515",
   "lastOpenFiles": [
-    "epita/maths/Notions élémentaires/Fractions.md",
+    "epita/maths/Notions élémentaires/PGCD.md",
     "epita/maths/Notions élémentaires/Primalité.md",
-    "epita/maths/Notions élémentaires/Logarithme décimal log.md",
+    "epita/maths/Notions élémentaires/PPCM.md",
+    "epita/maths/Notions élémentaires/Fractions.md",
     "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
+    "epita/maths/Notions élémentaires/Logarithme décimal log.md",
     "README.md",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master.pdf",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master 1.pdf",
@@ -245,8 +249,6 @@
     "epita/maths/Notions élémentaires/Racines.md",
     "attachments/Pasted image 20250309150508.png",
     "attachments/Pasted image 20250309021030.png",
-    "epita/maths/Notions élémentaires/PGCD.md",
-    "epita/maths/Notions élémentaires/PPCM.md",
     "Untitled.md",
     "Cybersecurity/Pre security/Intro to cybersecurity/Digital Forensics and Incident Response (DFIR).md",
     "epita/maths/Notions élémentaires",
