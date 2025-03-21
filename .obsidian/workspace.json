@@ -49,12 +49,14 @@
             "id": "8663e090460f2905",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
+                "file": "epita/maths/Notions élémentaires/Fractions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
+              "icon": "lucide-file",
+              "title": "Fractions"
             }
           },
           {
@@ -238,11 +240,12 @@
   },
   "active": "8663e090460f2905",
   "lastOpenFiles": [
-    "README.md",
+    "epita/maths/Notions élémentaires/Primalité.md",
+    "epita/maths/Notions élémentaires/Logarithme décimal log.md",
     "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
+    "README.md",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master.pdf",
     "epita/EPITA_Prérequis Algo Programmation_Cycle Ingénieur et Master 1.pdf",
-    "epita/maths/Notions élémentaires/Logarithme décimal log.md",
     "epita/maths/Programme.md",
     "epita/maths/Notions élémentaires/Logarithme néperien ln.md",
     "attachments/Pasted image 20250309155721.png",
@@ -258,7 +261,6 @@
     "Excalidraw",
     "epita/maths/Notions élémentaires/Racines.md",
     "attachments/Pasted image 20250309150508.png",
-    "epita/maths/Notions élémentaires/Primalité.md",
     "epita/maths/Notions élémentaires/Fractions.md",
     "attachments/Pasted image 20250309021030.png",
     "epita/maths/Notions élémentaires/PGCD.md",
