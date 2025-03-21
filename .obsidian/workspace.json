@@ -46,12 +46,14 @@
             "id": "8e8eed96f2431b10",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf"
+                "file": "epita/maths/Notions élémentaires/Pythagore.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master"
+              "icon": "lucide-file",
+              "title": "Pythagore"
             }
           }
         ]
@@ -220,11 +222,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "8663e090460f2905",
+  "active": "8e8eed96f2431b10",
   "lastOpenFiles": [
     "epita/EPITA_Prérequis Mathématiques_Cycle Ingénieur et Master.pdf",
-    "epita/maths/Notions élémentaires/Décomposition facteur premier.md",
+    "epita/maths/Notions élémentaires/Pythagore.md",
     "epita/maths/Notions élémentaires/Fractions.md",
+    "epita/maths/Notions élémentaires/Décomposition facteur premier.md",
     "epita/maths/Notions élémentaires/Untitled",
     "epita/maths/Notions élémentaires/PPCM.md",
     "epita/maths/Notions élémentaires/PGCD.md",
@@ -266,7 +269,6 @@
     "Cybersecurity/Pre security/Intro to cybersecurity/Offensive Security Intro.md",
     "Cybersecurity/Pre security/Networking/Ping.md",
     "Cybersecurity/Pre security/Networking/Internet history.md",
-    "Cybersecurity/Pre security/Intro to cybersecurity/Threat intelligence.md",
     "Untitled.canvas"
   ]
 }
